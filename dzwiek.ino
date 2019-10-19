@@ -17,7 +17,6 @@ void setup() {
   Serial.begin(9600);
   Serial.println("Start");
 
-  
 }
 
 // the loop function runs over and over again forever
